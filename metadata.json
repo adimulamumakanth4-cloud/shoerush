@@ -1,0 +1,7 @@
+{
+  "name": "Shoe Rush",
+  "description": "Premium luxury footwear e-commerce with live auctions, rare pieces, and AI-powered recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
